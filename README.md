@@ -1,5 +1,6 @@
-# M5 - Kopa do Mundo
-
+ Kopa do Mundo
+ Este projeto consiste no desenvolvimento de uma API para uma empresa que produz eventos esportivos. A API será utilizada para organizar um campeonato de futebol, onde cada equipe representa uma seleção nacional. O objetivo é garantir organização através de validações específicas para cada etapa do campeonato.
+ 
 ## Preparando ambiente para execução dos testes
 ### Procedimentos para rodar os testes da tarefa 1
 1. Faça a instalação das bibliotecas de teste:
